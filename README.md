@@ -31,6 +31,3 @@ This project was guided by **Dr. Ryan Ahmed** (Ph.D., MBA) – a professor and b
   - matplotlib  
   - scikit-learn  
 
-To install dependencies:  
-```bash
-pip install -r requirements.txt
